@@ -1,0 +1,22 @@
+[
+  {
+    "name": "prismic-preview",
+    "path": "/preview",
+    "component": "/Users/tom/Documents/GitHub3/multi-page-1/.nuxt-storybook/prismic/pages/preview.vue",
+    "_name": "_ad608f82"
+  },
+  {
+    "name": "page-uid",
+    "path": "/page/:uid?",
+    "component": "/Users/tom/Documents/GitHub3/multi-page-1/pages/page/_uid.vue",
+    "chunkName": "pages/page/_uid",
+    "_name": "_5c81fe09"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/tom/Documents/GitHub3/multi-page-1/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5d40ab4a"
+  }
+]
